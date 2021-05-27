@@ -1,5 +1,5 @@
-Package: data
-Title: data
+Package: yukonforecastingdata
+Title: yukonforecastingdata
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Bryce",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "brycemecum@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0002-0381-3766"))
-Description: data
+Description: yukonforecastingdata
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
