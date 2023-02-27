@@ -1,4 +1,13 @@
-year,percentile,value
-2021,FIFDJ,NA
-2021,QDJ,NA
-2021,MDJ,NA
+year,fifdj,qdj,mdj,source
+2011,16,19,24,"Project Google Drive"
+2012,23,26,30,"Project Google Drive"
+2013,21,23,28,"Project Google Drive"
+2014,11,15,21,"Project Google Drive"
+2015,19,22,27,"Project Google Drive"
+2016,9,12,19,"Project Google Drive"
+2017,10,13,19,"Project Google Drive"
+2018,16,28,22,"Project Google Drive"
+2019,15,17,21,"Project Google Drive"
+2020,14,16,22,"Project Google Drive"
+2021,15,18,23,"Project Google Drive"
+2022,10,13,18,"Project Google Drive"
