@@ -4,9 +4,9 @@ library(ggplot2)
 
 #' Downloaded from
 #' https://researchworkspace.com/project/8150629/folder/8150641/outputs
-air_temp_path <- "./environment-raw/2023/nome_air_temp-2023.csv"
-sst_path <- "./environment-raw/2023/surface_temperature-2023.csv"
-pice_temp_path <- "./environment-raw/2023/sea_ice_concentration-2023.csv"
+air_temp_path <- "./data/amatc/raw/2023/nome_air_temp-2023.csv"
+sst_path <- "./data/environment-raw/2023/surface_temperature-2023.csv"
+pice_temp_path <- "./data/environment-raw/2023/sea_ice_concentration-2023.csv"
 
 # Read in
 air_temp_data <- read_csv(air_temp_path)
