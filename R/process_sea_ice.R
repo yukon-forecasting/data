@@ -1,3 +1,6 @@
+# TODO
+# - Figure out downloading many files, do I need a cookie/netrc/API key?
+
 # https://n5eil01u.ecs.nsidc.org/PM/NSIDC-0081.002/2024.03.24/NSIDC0081_SEAICE_PS_N25km_20240324_v2.0.nc
 # https://nsidc.org/data/user-resources/help-center/guide-nsidcs-polar-stereographic-projection
 # +proj=stere +lat_0=90 +lat_ts=70 +lon_0=-45 +k=1 +x_0=0 +y_0=0 +a=6378273 +b=6356889.449 +units=m +no_defs
