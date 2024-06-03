@@ -40,7 +40,8 @@ get_lat_index <- function(nc, target_lat = 63.1) {
 #' Get the index for a given longitude
 #'
 #' @param nc A NetCDF file
-#' @param target_lon Optional. The longitude to find an index nearest to
+#' @param target_lon Optional. The longitude to find an index nearest to, given
+#' in westings (i.e., 360-target_lon => eastings)
 #'
 #' @return (numeric) A vector of longitude indices
 get_lon_index <- function(nc, target_lon = 165.5) {
