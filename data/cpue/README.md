@@ -4,7 +4,7 @@
 
 ## Updates (reverse chronological)
 
-- 2024: ADF&G chose not to operate LYTF in 2024 so there's on data for this year.
+- 2024: ADF&G chose not to operate LYTF for Chinook in 2024 so there's on data for this year.
 - 2022: Percentile dates were derived from BE Set instead of Drift as planned. A comparison of BE Set against BE Drift as well as both BE sites against Pilot Station and Eagle sonars suggested BE Set more accurately indexed the run.
 
     | Percentile | BE Set | BE Drift | Pilot | Eagle |
